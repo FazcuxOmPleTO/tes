@@ -1,6 +1,3 @@
--- [Código original até a definição de Starshot = {} permanece igual]
--- Baixe o raw de https://pastebin.com/raw/kbfatKNg e substitua até a linha ~50 onde começa Starshot = {}
-
 Starshot = {}
 
 -- Função de utilidade pra criar UI com drag
